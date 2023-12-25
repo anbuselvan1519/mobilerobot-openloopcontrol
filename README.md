@@ -1,4 +1,6 @@
 # MobileRobot-Openloopcontrol
+### Name : Anbuselvan.S
+### Reference No: 23005959
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
@@ -90,12 +92,8 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+![WhatsApp Image 2023-12-25 at 10 14 04_a77487bd](https://github.com/anbuselvan1519/mobilerobot-openloopcontrol/assets/139841744/5bc9d34f-b3eb-4c11-9952-0f6aec0db6b0)
 
-
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## MobileRobot Movement Video:
@@ -103,9 +101,6 @@ Insert image here
 Upload your video in Youtube and paste your video-id here
 https://youtu.be/1UoVOqXiUPI?feature=shared
 
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## Result:
